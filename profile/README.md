@@ -47,7 +47,7 @@ We welcome contributions to the Instagram Scam Scanner Chrome Extension! If you 
 
 ## License
 
-The Instagram Scam Scanner Chrome Extension is released under the MIT License. Feel free to use, modify, and distribute this extension in accordance with the terms of the license.
+ScamSpot is released under the MIT License. Feel free to use, modify, and distribute this extension in accordance with the terms of the license.
 
 ## Contact
 If you have any questions, feedback, or inquiries, please contact me at [stefan@erben.eu](stefan@erben.eu).
